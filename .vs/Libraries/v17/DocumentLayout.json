@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaney\\source\\repos\\Libraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|c:\\users\\yaney\\source\\repos\\libraries\\libraries\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|solutionrelative:libraries\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC74E651-3218-4B7E-9EF5-BA540365198C}|LibraryJson\\LibraryJson.csproj|c:\\users\\yaney\\source\\repos\\libraries\\libraryjson\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC74E651-3218-4B7E-9EF5-BA540365198C}|LibraryJson\\LibraryJson.csproj|solutionrelative:libraryjson\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|c:\\users\\yaney\\source\\repos\\libraries\\libraries\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|solutionrelative:libraries\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|c:\\users\\yaney\\source\\repos\\libraries\\libraries\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|solutionrelative:libraries\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|c:\\users\\yaney\\source\\repos\\libraries\\libraries\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C911EC5-AE4B-4239-A3EF-2B425EE0B209}|Libraries\\Libraries.csproj|solutionrelative:libraries\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5064D5-D67C-4642-8527-EBDB45F17701}|LibraryThemes\\LibraryThemes.csproj|c:\\users\\yaney\\source\\repos\\libraries\\librarythemes\\themes\\purpletheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F5064D5-D67C-4642-8527-EBDB45F17701}|LibraryThemes\\LibraryThemes.csproj|solutionrelative:librarythemes\\themes\\purpletheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5064D5-D67C-4642-8527-EBDB45F17701}|LibraryThemes\\LibraryThemes.csproj|c:\\users\\yaney\\source\\repos\\libraries\\librarythemes\\fulldictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F5064D5-D67C-4642-8527-EBDB45F17701}|LibraryThemes\\LibraryThemes.csproj|solutionrelative:librarythemes\\fulldictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5064D5-D67C-4642-8527-EBDB45F17701}|LibraryThemes\\LibraryThemes.csproj|c:\\users\\yaney\\source\\repos\\libraries\\librarythemes\\themes\\pinktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F5064D5-D67C-4642-8527-EBDB45F17701}|LibraryThemes\\LibraryThemes.csproj|solutionrelative:librarythemes\\themes\\pinktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Libraries\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\MainWindow.xaml",
+              "RelativeToolTip": "Libraries\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:50:27.611Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Libraries\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Libraries\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:50:49.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\App.xaml",
+              "RelativeDocumentMoniker": "Libraries\\App.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\App.xaml",
+              "RelativeToolTip": "Libraries\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:50:59.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Libraries\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\Libraries\\App.xaml.cs",
+              "RelativeToolTip": "Libraries\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:50:52.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Json.cs",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryJson\\Json.cs",
+              "RelativeDocumentMoniker": "LibraryJson\\Json.cs",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryJson\\Json.cs",
+              "RelativeToolTip": "LibraryJson\\Json.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:51:05.969Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PinkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryThemes\\Themes\\PinkTheme.xaml",
+              "RelativeDocumentMoniker": "LibraryThemes\\Themes\\PinkTheme.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryThemes\\Themes\\PinkTheme.xaml",
+              "RelativeToolTip": "LibraryThemes\\Themes\\PinkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:51:10.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurpleTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryThemes\\Themes\\PurpleTheme.xaml",
+              "RelativeDocumentMoniker": "LibraryThemes\\Themes\\PurpleTheme.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryThemes\\Themes\\PurpleTheme.xaml",
+              "RelativeToolTip": "LibraryThemes\\Themes\\PurpleTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:51:12.415Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FullDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryThemes\\FullDictionary.xaml",
+              "RelativeDocumentMoniker": "LibraryThemes\\FullDictionary.xaml",
+              "ToolTip": "C:\\Users\\yaney\\source\\repos\\Libraries\\LibraryThemes\\FullDictionary.xaml",
+              "RelativeToolTip": "LibraryThemes\\FullDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:51:15.555Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

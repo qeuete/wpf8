@@ -1,0 +1,11 @@
+C:\Users\yaney\source\repos\Libraries\LibraryJson\bin\Debug\net8.0\LibraryJson.deps.json
+C:\Users\yaney\source\repos\Libraries\LibraryJson\bin\Debug\net8.0\LibraryJson.dll
+C:\Users\yaney\source\repos\Libraries\LibraryJson\bin\Debug\net8.0\LibraryJson.pdb
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\LibraryJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\LibraryJson.AssemblyInfoInputs.cache
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\LibraryJson.AssemblyInfo.cs
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\LibraryJson.csproj.CoreCompileInputs.cache
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\LibraryJson.dll
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\refint\LibraryJson.dll
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\LibraryJson.pdb
+C:\Users\yaney\source\repos\Libraries\LibraryJson\obj\Debug\net8.0\ref\LibraryJson.dll
